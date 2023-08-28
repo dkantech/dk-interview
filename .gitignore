@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules
+
+# Logs
+logs
+*.log
+
+#package-lock.json
+package-lock.json
+
+dk-main/*
+
+*.back
+*.bak
