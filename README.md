@@ -3,7 +3,7 @@
 ### 테스트 문항
 
 제공되는 API 문서를 참조하여 "test.js"파일의 "testFunc"함수 안에
-fcltName이 '연구소 내부 카메라' 인 데이터를 조회하시고 조회된 데이터에서 fcltTypeData의 dataKey 값이 "cameraIp"인 오브젝트의 value를 리턴하시오.
+fcltName이 '수원01' 인 데이터를 조회하시고 조회된 데이터에서 fcltTypeData의 dataKey 값이 "cameraIp"인 오브젝트의 value를 리턴하시오.
 
 ### 테스트 조건
 - API문서는 "http://192.168.0.223:13010/api" 를 통해 확인 가능
